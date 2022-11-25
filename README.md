@@ -21,7 +21,7 @@ My name is Youness Amzil, I'm a computer science student at UM6P - 1337 MED (42 
 ### My Absolute Favorites:
 
 - 📺 &nbsp; Watching TV shows, movies and talks.
-- 🥅 &nbsp; I'm a guy of sports, I can play basketball, soccer and volleyball.
+- 🏀 &nbsp; I'm a guy of sports, I can play basketball, soccer and volleyball.
 - 🎸 &nbsp; I play multiple music instruments.
 
 
