@@ -16,7 +16,6 @@ My name is Youness Amzil, I'm a computer science student at UM6P - 1337 MED (42 
 - 🛠 &nbsp; I’m currently working on [42 cursus](https://github.com/yoamzil/42-Cursus)
 - 🚀 &nbsp; I’m currently learning C language.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yoamzil).
-- 📫 &nbsp; How to reach me: amzilyouness@gmail.com.
 
 
 ### My Absolute Favorites:
