@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp;
 
-My name is Youness Amzil, I'm a computer science student at UM6P - 1337 MED (42 Network).
+My name is Youness Amzil, I'm a computer science student at UM6P - 1337 MED (42 Network), and ALX student as well.
 I'm a passionate learner who's always willing to learn and work across technologies and domains💡, I love to explore new technologies and leverage them to solve real-life problems ✨.
 ### 42 Badge:
 [![yoamzil's 42 stats](https://badge.mediaplus.ma/darkblue/yoamzil)](https://github.com/oakoudad/badge42)
@@ -14,7 +14,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   
 ### Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on [42 cursus](https://github.com/yoamzil/42-Cursus)
+- 🛠 &nbsp; I’m currently working on [my 42 cursus](https://github.com/yoamzil/42-Cursus) and my ALX curriculum.
 - 🚀 &nbsp; I’m currently learning C language.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yoamzil).
 
