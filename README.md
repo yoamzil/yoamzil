@@ -12,7 +12,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 [![yoamzil's 42 stats](https://badge.mediaplus.ma/darkblue/yoamzil)](https://github.com/oakoudad/badge42)
 
   
-### Talking about Personal Stuffs:
+### Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on [42 cursus](https://github.com/yoamzil/42-Cursus)
 - 🚀 &nbsp; I’m currently learning C language.
