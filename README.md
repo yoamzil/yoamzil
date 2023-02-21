@@ -14,7 +14,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   
 ### Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on [my 42 cursus](https://github.com/yoamzil/42-Cursus) and my ALX curriculum.
+- 🛠 &nbsp; I’m currently working on my [42 cursus](https://github.com/yoamzil/42-Cursus) and my ALX curriculum.
 - 🚀 &nbsp; I’m currently learning C language.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yoamzil).
 
