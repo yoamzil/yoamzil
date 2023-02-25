@@ -7,7 +7,7 @@
 <h3 align="center">A passionate learner and computer science student</h3>
 
 <p align="center">
-  Hi, I'm Youness Amzil, a computer science student at UM6P - 1337 MED (42 Network) and an ALX student. I love exploring new technologies and using them to solve real-life problems. </p>
+  Hi, I'm Youness Amzil, a computer science student at UM6P - 1337 MED (42 Network) and a ALX student. I love exploring new technologies and using them to solve real-life problems. </p>
 
 <p align="center">
   <a href="https://badge.mediaplus.ma/darkblue/yoamzil" target="_blank">
