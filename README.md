@@ -11,8 +11,6 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yoamzil&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" width="40"/>
