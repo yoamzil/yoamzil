@@ -29,5 +29,5 @@
 
 <h3 align="center">👨‍💻 My Projects</h3>
 <p align="center">
-  Check out my latest projects on <a href="https://github.com/yoamzil" target="_blank">GitHub</a>
+  Check out my latest projects on <a href="[https://github.com/yoamzil](https://github.com/yoamzil?tab=repositories)" target="_blank">GitHub</a>
 </p>
