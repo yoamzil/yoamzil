@@ -31,3 +31,8 @@
   Check out my latest projects on <a href="https://github.com/yoamzil?tab=repositories" target="_blank">GitHub</a>.<br>
   Connect with me on <a href="https://www.linkedin.com/in/yoamzil/" target="_blank">LinkedIn</a>.
 </p>
+
+<h3 align="center">📊 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoamzil" alt="Top Languages" />
+</p>
