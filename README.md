@@ -1,5 +1,11 @@
 <h3 align="center">👋 Hello, I'm Youness Amzil</h3>
 
+<div align="center">
+  <a href="https://techforpalestine.org/learn-more">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine">
+  </a>
+</div>
+
 <p align="center">
   A passionate learner and computer science student at UM6P - 1337 MED (42 Network) and ALX. I love exploring new technologies and using them to solve real-life problems.
 </p>
