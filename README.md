@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  A passionate learner and computer science student at UM6P - 1337 MED (42 Network) and ALX. I love exploring new technologies and using them to solve real-life problems.
+  A passionate learner and computer science student at UM6P - 1337 MED (42 Network). I love exploring new technologies and using them to solve real-life problems.
 </p>
 
 <p align="center">
@@ -20,10 +20,11 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cpp" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" alt="Docker" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="Html" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="Css" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Js" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" height="40" width="40"/>
 </p>
 
 <h3 align="center">✨ Interests</h3>
@@ -37,9 +38,4 @@
 <p align="center">
   Check out my latest projects on <a href="https://github.com/yoamzil?tab=repositories" target="_blank">GitHub</a>.<br>
   Connect with me on <a href="https://www.linkedin.com/in/yoamzil/" target="_blank">LinkedIn</a>.
-</p>
-
-<h3 align="center">📊 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoamzil&hide=assembly" alt="Top Languages" />
 </p>
